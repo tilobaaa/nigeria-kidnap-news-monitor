@@ -1,9 +1,0 @@
-
-.env
-.venv/
-__pycache__/
-*.py[cod]
-news.log
-.DS_Store
-.venv/
-__pycache__/
